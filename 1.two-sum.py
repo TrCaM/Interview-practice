@@ -17,5 +17,4 @@ class Solution:
             if other in map:
                 return [i, map[other]]
             map[num] = i
-        
 # @lc code=end
