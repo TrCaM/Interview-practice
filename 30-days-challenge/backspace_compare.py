@@ -19,4 +19,3 @@ class Solution:
       pT, charT = getNextChar(pT, T)
       if charS != charT:
         return false
-      
